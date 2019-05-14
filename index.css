@@ -1,0 +1,31 @@
+body{
+	margin: 0px;
+
+	background-image: url(../img/u=350137678,3380147877&fm=26&gp=0.jpg);
+}
+#d1{
+	font-style: italic;
+	font-size: 2em;
+	font-weight: 100;
+	text-align: center;
+}
+input{
+	position: relative;
+	left: 10em;
+	bottom: 15em;
+	font-weight: 100;
+}
+#d2{
+	text-align: center;
+	line-height: 30em;
+}
+#d3{
+	position: relative;
+	bottom: 14em;
+}
+#d4{
+	position: relative;
+	top: 2em;
+	background-color: #e7e7e7;
+	color: black;
+}
